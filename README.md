@@ -1,2 +1,2 @@
 # comandosgit
-Lista de comandos utilizados com frequência no github
+Lista de comandos utilizados com frequência no git
